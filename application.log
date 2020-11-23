@@ -1,0 +1,2 @@
+2020-08-04 19:37:23,353  INFO [com.atmecs.falcon.falcon_ui_test.runner.TestNGRunner.main()] AtmecsContactUsTest:51 - executing exploreTest 
+2020-08-04 19:37:31,019 ERROR [com.atmecs.falcon.falcon_ui_test.runner.TestNGRunner.main()] TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
